@@ -1,139 +1,137 @@
-# 28dysChalengeAI
-Pro IT profesionlay pripravuji 28 denni vyzvu v AI
-🌟 28denní AI Mastery plán pro IT profesionály
+# 28-Day AI Challenge for IT Professionals  
+### English / Čeština
 
-Průvodce, který kultivuje dovednosti, proměňuje práci a zve k odpovědné tvorbě.
+---
 
-Milí přátelé, dovolte mi nabídnout cestu, která neusiluje jen o technickou zdatnost, ale i o onu tichou vnitřní transformaci, již AI éra vyžaduje.
-Každý den je krátkým krokem, jenž má probouzet tvořivou jistotu a mravní vědomí správce systémů, člověka zodpovědného za stabilitu světa, jejž obývají tisíce serverů.
+# 🔎 Overview / Přehled
 
-TÝDEN 1 — AI jako partner admina
-Den 1 – ChatGPT / Claude pro administraci
+**EN:**  
+This repository contains a 28-day practical AI challenge for IT professionals, system administrators, and DevOps engineers.  
+Each day focuses on a specific AI tool and includes an EN/CZ prompt stored in files `01`–`28`.
 
-Cíl: osvojit si generování BASH, Pythonu, dokumentace.
-Úkol: nech AI vygenerovat skript, který projde /var/log a najde největší soubory; následně jej nechej optimalizovat.
+**CZ:**  
+Tento repozitář obsahuje 28denní praktickou AI výzvu pro IT profesionály, administrátory a DevOps inženýry.  
+Každý den se zaměřuje na konkrétní AI nástroj a obsahuje EN/CZ prompt uložený v souborech `01`–`28`.
 
-Den 2 – GitHub Copilot / Cursor
+---
 
-Cíl: automatizované doplňování skriptů.
-Úkol: otevři vlastní skript (libovolný) a nech Copilota navrhnout jeho refaktorizaci.
+# 🧰 AI Tools Used in This Challenge / AI nástroje použité v této výzvě
 
-Den 3 – AI terminál (Warp, Fig)
+**LLM / Text AI:**  
+ChatGPT, Claude, GitHub Copilot, Cursor  
 
-Cíl: rychlejší práce v CLI.
-Úkol: zadej tři úkoly, které bys obvykle hledal na StackOverflow, a nech terminál navrhnout příkaz.
+**CLI / Shell:**  
+Warp, Fig, ExplainShell  
 
-Den 4 – ExplainShell + AI
+**Automation & DevOps:**  
+Ansible, Terraform, n8n.io, Make.com, GitHub Actions  
 
-Cíl: pochopení komplexních příkazů.
-Úkol: vezmi nejobtížnější příkaz z vlastní praxe a nech AI jej vysvětlit krok za krokem.
+**Documentation & Knowledge:**  
+Notion AI, SlidesAI, Readwise AI  
 
-Den 5 – AI pro analýzu logů
+**Visualization & Diagrams:**  
+Canva, Miro, Whimsical  
 
-Cíl: rychlá diagnostika problémů.
-Úkol: vyexportuj ukázku logu a nech AI navrhnout možnou příčinu chyby a postup řešení.
+**Monitoring & Infra:**  
+Grafana, Prometheus  
 
-Den 6 – Ansible + AI
+**Media, Voice & UI:**  
+Descript, ElevenLabs, Krea.ai  
 
-Cíl: generování playbooků.
-Úkol: nech AI vytvořit playbook pro instalaci Nginxu s rozdílnou konfigurací pro RHEL a Ubuntu.
+**Image & Video Generation:**  
+Midjourney, Leonardo.ai, RunwayML  
 
-Den 7 – Terraform + AI
+**Security & Agents:**  
+AI Agents, AI CVE Analysis  
 
-Cíl: modulární infrastruktura.
-Úkol: vytvoř nový modul pomocí AI – i kdyby byl jen cvičný.
+---
 
-TÝDEN 2 — Automatizace a integrace
-Den 8 – Make.com / n8n
+# 🚀 How to Use This Repository / Jak používat tento repozitář
 
-Cíl: automatizace nenáročných workflow.
-Úkol: vytvoř scénář: e-mail → extrakce dat → zápis do DB.
+## EN
+You can use this challenge in two ways:
 
-Den 9 – GitHub Actions
+### 🔹 Option 1: Clone this repository  
+Create your own local version and add your own tasks, problems, or notes:
 
-Cíl: CI/CD asistované AI.
-Úkol: nech AI vytvořit YAML workflow pro deployment statického webu.
+```
+git clone https://github.com/antoninecer/28-days-Chalenge-AI.git
+```
 
-Den 10 – Dokumentace API s pomocí AI
+You will get your own working tree containing files `01`–`28` which you can modify freely.
 
-Cíl: konzistentní popis služeb.
-Úkol: dej AI OpenAPI schema a nech ji vytvořit vysvětlující dokument.
+### 🔹 Option 2: Fork this repository  
+If you prefer working on GitHub and want to publish your progress:  
+- click **Fork**  
+- complete the challenge in your fork  
+- share your results if you want  
 
-Den 11 – Dockerfile generátor
+Each file (`01` → `28`) contains an EN/CZ prompt. Use it with the appropriate AI tool and document your own solution.
 
-Cíl: optimalizace kontejnerů.
-Úkol: nech AI vytvořit Dockerfile pro Python Flask aplikaci + její hardening.
+---
 
-Den 12 – Kubernetes YAML
+## CZ
+Tuto výzvu můžeš používat dvěma způsoby:
 
-Cíl: spolehlivé deploymenty.
-Úkol: nech AI vytvořit Deployment + Service + Ingress pro testovací app.
+### 🔹 Varianta 1: Naklonuj si repozitář  
+Vytvoř si vlastní lokální kopii a přidej si do ní své vlastní úkoly, problémy nebo poznámky:
 
-Den 13 – Helm templaty
+```
+git clone https://github.com/antoninecer/28-days-Chalenge-AI.git
+```
 
-Cíl: parametrizovaná infrastruktura.
-Úkol: vezmi obyčejný YAML a nech AI jej přetvořit na Helm chart.
+Získáš vlastní pracovní strom se soubory `01`–`28`, které můžeš libovolně upravovat.
 
-Den 14 – Prometheus a Grafana
+### 🔹 Varianta 2: Forkni si repozitář  
+Pokud chceš pracovat přímo na GitHubu a podělit se o výsledky:  
+- klikni **Fork**  
+- splň výzvu ve své kopii  
+- když budeš chtít, nasdílej své výsledky  
 
-Cíl: monitoring nové generace.
-Úkol: nech AI navrhnout textový popis dashboardu a následně jej postav.
+Každý soubor (`01` → `28`) obsahuje EN/CZ prompt. Použij jej s příslušným AI nástrojem a doplň vlastní řešení.
 
-TÝDEN 3 — Zavedení AI do týmové tvorby
-Den 15 – Notion AI jako znalostní základna
+---
 
-Úkol: migruj jedno téma (např. postup instalace RHEL 9) do Notionu pomocí AI.
+# 📅 28-Day Challenge Overview / Přehled 28denní výzvy
 
-Den 16 – Canva
+## Week 1 — AI as a System Administrator’s Partner  
+**Day 01 – ChatGPT / Claude:** Generating Bash/Python scripts for log scanning and optimization.  
+**Day 02 – Copilot / Cursor:** Refactoring scripts for clarity, performance, and security.  
+**Day 03 – Warp / Fig:** Using AI-assisted terminal to find optimal CLI commands.  
+**Day 04 – ExplainShell + AI:** Understanding complex shell commands step by step.  
+**Day 05 – AI Log Analysis:** Diagnosing issues from logs and proposing fixes.  
+**Day 06 – Ansible + AI:** Generating playbooks with OS-specific configurations.  
+**Day 07 – Terraform + AI:** Creating reusable Terraform modules.
 
-Úkol: vytvoř jednoduché architekturní schéma pomocí AI šablony.
+## Week 2 — Automation & Integration  
+**Day 08 – Make.com / n8n:** Creating automated workflows (email → extract → DB).  
+**Day 09 – GitHub Actions:** Generating CI/CD pipelines with YAML.  
+**Day 10 – API Documentation:** Converting OpenAPI schema into readable documentation.  
+**Day 11 – Dockerfile Generator:** Creating optimized, secure multistage Dockerfiles.  
+**Day 12 – Kubernetes YAML:** Generating Deployment, Service, Ingress, ConfigMap.  
+**Day 13 – Helm Templates:** Converting static YAML to Helm charts.  
+**Day 14 – Prometheus + Grafana:** Designing dashboards and monitoring flows.
 
-Den 17 – Miro / Whimsical
+## Week 3 — AI for Team Knowledge & Communication  
+**Day 15 – Notion AI:** Migrating knowledge and procedures into a structured knowledge base.  
+**Day 16 – Canva:** Creating architectural diagrams using AI-powered templates.  
+**Day 17 – Miro / Whimsical:** Designing system migration diagrams.  
+**Day 18 – Descript:** Turning explanations into video tutorials.  
+**Day 19 – ElevenLabs:** Converting technical text into voice messages.  
+**Day 20 – SlidesAI:** Automatically generating technical presentations.  
+**Day 21 – Readwise:** Storing AI insights into a personal knowledge system.
 
-Úkol: vytvoř diagram migrace serverů nebo clusteru.
+## Week 4 — Advanced Tools & AI Agents  
+**Day 22 – Midjourney / Leonardo:** Creating visual concepts of architecture or clusters.  
+**Day 23 – RunwayML:** Generating short videos explaining infrastructure.  
+**Day 24 – Krea.ai:** Designing UI or data visualizations for internal tools.  
+**Day 25 – AI Voice for Monitoring:** Creating custom alert voice notifications.  
+**Day 26 – AI Agents:** Running automated daily log/CVE/cluster checks.  
+**Day 27 – AI Security Analyst:** Analyzing CVEs and prioritizing fixes.  
+**Day 28 – Full AI Pipeline:** Logs → AI analysis → summary → alert → Notion doc → solution proposal.
 
-Den 18 – Descript
+---
 
-Úkol: nahraj krátké vysvětlení problému a nech AI jej přepsat do tutoriálu.
-
-Den 19 – ElevenLabs
-
-Úkol: nech AI převést tvůj text (např. SOP) do mluvené formy pro kolegy.
-
-Den 20 – SlidesAI
-
-Úkol: vytvoř prezentaci z textu o nové infrastruktuře.
-
-Den 21 – Readwise
-
-Úkol: začni ukládat užitečné AI výstupy jako osobní znalostní bázi.
-
-TÝDEN 4 — Pokročilé nástroje a agenti
-Den 22 – Midjourney / Leonardo
-
-Úkol: vytvoř vizuální koncept architektury nebo serverového clusteru.
-
-Den 23 – RunwayML
-
-Úkol: vygeneruj 10–20s video o infrastruktuře (jen pro cvičení).
-
-Den 24 – Krea.ai
-
-Úkol: vytvoř grafy nebo UI návrh interního nástroje.
-
-Den 25 – AI hlas pro monitoring
-
-Úkol: vytvoř hlasové varování („CPU přetížen na serveru X“).
-
-Den 26 – AI agenti
-
-Úkol: nastav agenta, který denně kontroluje logy, CVE nebo stav clusteru.
-
-Den 27 – AI bezpečnostní analytik
-
-Úkol: nech AI projít seznam CVE pro RHEL 7/8/9 a navrhnout priority.
-
-Den 28 – Finální integrace
-
-Úkol: sestav vlastní AI pipeline:
-logy → AI analýza → shrnutí → alert → Notion dokument → návrh řešení.
+# 📜 License / Licence
+**EN:** Free to use, modify, and share.  
+**CZ:** Volně k použití, úpravám a sdílení.
