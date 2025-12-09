@@ -1,0 +1,18 @@
+# Day 12 – Kubernetes Deployment
+
+## Purpose
+EN: Deploy applications into Kubernetes clusters.  
+CZ: Nasazovat aplikace do Kubernetes clusterů.
+
+## Prompt
+EN:
+```
+Create Deployment, Service, Ingress, ConfigMap, resource limits,
+and liveness/readiness probes for a demo app.
+```
+
+CZ:
+```
+Vytvoř Deployment, Service, Ingress, ConfigMap, resource limity
+a liveness/readiness probe pro demo aplikaci.
+```
