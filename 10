@@ -1,0 +1,18 @@
+# Day 10 – API Documentation
+
+## Purpose
+EN: Transform OpenAPI schema into readable documentation.  
+CZ: Převést OpenAPI schéma do srozumitelné dokumentace.
+
+## Prompt
+EN:
+```
+Convert this OpenAPI schema into clean documentation with examples:
+<schema>
+```
+
+CZ:
+```
+Převeď toto OpenAPI schéma do přehledné dokumentace s příklady:
+<schéma>
+```
