@@ -1,0 +1,26 @@
+# Day 22 – Technical Diagram (Midjourney / Leonardo)
+
+## Purpose
+EN: Create technical diagrams using AI image models.  
+CZ: Vytvářet technické diagramy pomocí AI generátorů.
+
+## Prompt
+EN:
+```
+Create a clean technical diagram illustrating:
+- multi-node Linux cluster
+- load balancers
+- storage nodes
+- monitoring stack
+Minimalistic flat style.
+```
+
+CZ:
+```
+Vytvoř čistý technický diagram zobrazující:
+- víceuzlový Linux cluster
+- load balancery
+- storage uzly
+- monitoring stack
+Styl: minimalistický, plochý.
+```
