@@ -1,0 +1,22 @@
+# Day 16 – System Diagram (Canva)
+
+## Purpose
+EN: Create visual architecture diagrams using AI tools in Canva.  
+CZ: Vytvořit vizuální architekturu systému pomocí AI v Canvě.
+
+## Prompt
+EN:
+```
+Create a system architecture diagram showing:
+frontend → backend → database
+All traffic routed through an Nginx reverse proxy.
+Use clean labels and simple layout.
+```
+
+CZ:
+```
+Vytvoř diagram systémové architektury zobrazující:
+frontend → backend → databáze,
+veškerý provoz přes Nginx reverse proxy.
+Použij jednoduché rozložení a jasné popisy.
+```
