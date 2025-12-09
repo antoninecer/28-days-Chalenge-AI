@@ -1,0 +1,20 @@
+# Day 23 – Technical Video (RunwayML)
+
+## Purpose
+EN: Explain infrastructure behavior through short AI videos.  
+CZ: Vysvětlit chování infrastruktury pomocí krátkých AI videí.
+
+## Prompt
+EN:
+```
+Generate a short animated video explaining:
+"How HAProxy load balances traffic across three backend nodes."
+Use clear labels and simple animation.
+```
+
+CZ:
+```
+Vytvoř krátké animované video vysvětlující:
+"Jak HAProxy rozkládá provoz mezi tři backend uzly."
+Použij jasné popisky a jednoduché animace.
+```
