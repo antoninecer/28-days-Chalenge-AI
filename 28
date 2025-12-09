@@ -1,0 +1,30 @@
+# Day 28 – Full AI Pipeline (Integration)
+
+## Purpose
+EN: Build a complete AI-driven analysis and reporting pipeline.  
+CZ: Sestavit kompletní pipeline řízenou AI.
+
+## Prompt
+EN:
+```
+Design a full pipeline:
+Logs → AI analysis → Summary → Alert → Recommendations → Notion storage
+
+Include:
+- architecture diagram
+- step descriptions
+- demo scripts
+- YAML configs
+```
+
+CZ:
+```
+Navrhni kompletní pipeline:
+Logy → AI analýza → Shrnutí → Alert → Doporučení → Uložení do Notion
+
+Zahrň:
+- architektonický diagram
+- popis kroků
+- ukázkové skripty
+- YAML konfigurace
+```
