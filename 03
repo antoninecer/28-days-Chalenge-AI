@@ -1,7 +1,20 @@
-Warp / Fig – příkazová optimalizace
+# Day 03 – Command Optimization (Warp / Fig)
 
-Účel: najít nejrychlejší cestu k řešení.
+## Purpose
+EN: Optimize command-line workflows.  
+CZ: Optimalizovat práci v příkazové řádce.
 
-Mám provést následující úkol:
-<popiš úkol, např. "najít procesy s nejvyšší spotřebou IO">
-Navrhni nejlepší příkaz, jeho vysvětlení a alternativy pro RHEL/Ubuntu.
+## Prompt
+EN:
+```
+I need the best command to solve the following task:
+<describe task>
+Provide explanation and alternatives for RHEL and Ubuntu.
+```
+
+CZ:
+```
+Potřebuji nejlepší příkaz k vyřešení úkolu:
+<popiš úkol>
+Přidej vysvětlení a alternativy pro RHEL a Ubuntu.
+```
