@@ -1,0 +1,10 @@
+chapter1
+ChatGPT / Claude – generování BASH & Python skriptů
+
+Jsem Linuxový administrátor. Potřebuji vytvořit skript, který:
+- projde /var/log
+- najde největší 10 souborů
+- vypíše jejich velikost a cestu
+- nabídne možnost jejich komprimace
+
+Vytvoř prosím BASH i Python verzi. Přidej vysvětlení každého kroku.
