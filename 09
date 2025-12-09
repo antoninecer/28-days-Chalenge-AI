@@ -1,0 +1,24 @@
+# Day 09 – CI/CD (GitHub Actions)
+
+## Purpose
+EN: Automate testing and deployment via GitHub Actions.  
+CZ: Automatizovat testování a nasazení přes GitHub Actions.
+
+## Prompt
+EN:
+```
+Create a GitHub Actions workflow that:
+- builds
+- tests
+- deploys a static website via rsync/SSH
+Use job matrix + secrets.
+```
+
+CZ:
+```
+Vytvoř GitHub Actions workflow, které:
+- buildí
+- testuje
+- nasazuje statický web přes rsync/SSH
+Použij job matrix + secrets.
+```
