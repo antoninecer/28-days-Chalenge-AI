@@ -1,0 +1,26 @@
+# Day 08 – Automation Workflow (n8n / Make)
+
+## Purpose
+EN: Create automations for data extraction and database input.  
+CZ: Tvořit automatizace pro extrakci dat a zápis do databáze.
+
+## Prompt
+EN:
+```
+Design a workflow that:
+- receives an email with CSV
+- extracts data
+- stores data in PostgreSQL
+- sends confirmation
+Generate an n8n JSON blueprint.
+```
+
+CZ:
+```
+Navrhni workflow, které:
+- přijme e-mail s CSV
+- extrahuje data
+- uloží je do PostgreSQL
+- odešle potvrzení
+Vytvoř n8n JSON blueprint.
+```
