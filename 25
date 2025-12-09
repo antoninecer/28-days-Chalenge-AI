@@ -1,0 +1,18 @@
+# Day 25 – Voice Alerts (AI TTS)
+
+## Purpose
+EN: Create alert messages for monitoring or automation systems.  
+CZ: Vytvářet hlasová upozornění pro monitoring nebo automatizaci.
+
+## Prompt
+EN:
+```
+Create three variants of this voice alert:
+"CPU alarm: Server node12 exceeded the 95% threshold."
+```
+
+CZ:
+```
+Vytvoř tři varianty tohoto hlasového alertu:
+"CPU alarm: Server node12 překročil limit 95 %."
+```
