@@ -1,0 +1,20 @@
+# Day 13 – Helm Chart
+
+## Purpose
+EN: Convert static YAML into dynamic Helm charts.  
+CZ: Převést statické YAML do dynamických Helm chartů.
+
+## Prompt
+EN:
+```
+Convert these YAML files into a complete Helm chart:
+<YAML content>
+Include templates and values.yaml.
+```
+
+CZ:
+```
+Převeď tyto YAML soubory do kompletního Helm chartu:
+<obsah YAML>
+Zahrň templaty i values.yaml.
+```
