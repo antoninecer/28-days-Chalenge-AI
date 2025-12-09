@@ -1,0 +1,20 @@
+# Day 17 – Migration Diagram (Miro / Whimsical)
+
+## Purpose
+EN: Visualize system or OS migrations.  
+CZ: Vizualizovat migrace systémů nebo operačních systémů.
+
+## Prompt
+EN:
+```
+Create a migration workflow diagram for moving systems from CentOS 7 to RHEL 9.
+Break the process into 8–12 steps.
+Include risk points and validation checkpoints.
+```
+
+CZ:
+```
+Vytvoř diagram migračního workflow pro přechod ze CentOS 7 na RHEL 9.
+Rozděl proces do 8–12 kroků.
+Zahrň rizikové body a validační kroky.
+```
