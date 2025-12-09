@@ -1,0 +1,26 @@
+# Day 15 – Notion Knowledge Base (Notion AI)
+
+## Purpose
+EN: Convert technical procedures into structured internal documentation.  
+CZ: Převést technické postupy do strukturované interní dokumentace.
+
+## Prompt
+EN:
+```
+Transform the following procedure into a structured Notion document.
+Include:
+- sections
+- tables
+- bullet summaries
+<procedure>
+```
+
+CZ:
+```
+Převeď následující postup do strukturovaného Notion dokumentu.
+Zahrň:
+- sekce
+- tabulky
+- stručná shrnutí
+<postup>
+```
