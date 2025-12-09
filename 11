@@ -1,0 +1,26 @@
+# Day 11 – Dockerfile Optimization
+
+## Purpose
+EN: Build secure, minimal, production-ready container images.  
+CZ: Vytvořit bezpečné, minimální a produkčně připravené kontejnery.
+
+## Prompt
+EN:
+```
+Create an optimized multistage Dockerfile for a Flask app.
+Include:
+- non-root user
+- healthcheck
+- minimal image
+- docker-compose file
+```
+
+CZ:
+```
+Vytvoř optimalizovaný multistage Dockerfile pro Flask aplikaci.
+Zahrň:
+- non-root uživatele
+- healthcheck
+- minimální image
+- docker-compose
+```
