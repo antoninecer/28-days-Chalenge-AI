@@ -1,6 +1,20 @@
-ExplainShell + ChatGPT – vysvětlení složitých příkazů
-Účel: pochopit i extrémně komplexní příkazy.
+# Day 04 – Command Explanation (ExplainShell + AI)
 
-Vysvětli mi detailně, krok za krokem, význam tohoto příkazu:
+## Purpose
+EN: Understand complex Linux shell commands step by step.  
+CZ: Pochopit složité Linuxové příkazy krok za krokem.
+
+## Prompt
+EN:
+```
+Explain this Linux command step by step. 
+Provide a safer alternative and a shorter version if possible:
+<command>
+```
+
+CZ:
+```
+Vysvětli tento Linuxový příkaz krok za krokem.
+Navrhni bezpečnější a případně kratší alternativu:
 <příkaz>
-Navíc navrhni jeho bezpečnější variantu a případně i kratší alternativu.
+```
