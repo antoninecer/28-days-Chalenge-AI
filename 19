@@ -1,0 +1,26 @@
+# Day 19 – Voiceover Generation (ElevenLabs)
+
+## Purpose
+EN: Generate professional voiceovers for SOPs and documentation.  
+CZ: Vytvořit profesionální hlasové komentáře pro SOP a dokumentaci.
+
+## Prompt
+EN:
+```
+Generate a professional voiceover for this SOP.
+Suggest:
+- tone
+- speed
+- clarity improvements
+<SOP>
+```
+
+CZ:
+```
+Vytvoř profesionální hlasový komentář pro tento SOP.
+Navrhni:
+- tón hlasu
+- rychlost čtení
+- úpravy srozumitelnosti
+<SOP>
+```
