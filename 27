@@ -1,0 +1,28 @@
+# Day 27 – Security Analysis (AI Security Tools)
+
+## Purpose
+EN: Analyze CVEs for severity and remediation priority.  
+CZ: Analyzovat CVE dle závažnosti a priority opravy.
+
+## Prompt
+EN:
+```
+Analyze the following CVE list.
+For each CVE, determine:
+- severity
+- impact
+- remediation priority
+- recommended fixes
+<CVE list>
+```
+
+CZ:
+```
+Analyzuj následující seznam CVE.
+Pro každé CVE urč:
+- závažnost
+- dopad
+- prioritu opravy
+- doporučení
+<seznam CVE>
+```
