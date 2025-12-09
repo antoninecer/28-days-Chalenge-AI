@@ -1,10 +1,26 @@
-ChatGPT / Claude – generování BASH & Python skriptů
-Účel: optimalizovat rutinní práci admina.
+# Day 01 – Script Generation (ChatGPT / Claude)
 
-Jsem Linuxový administrátor. Potřebuji vytvořit skript, který:
+## Purpose
+EN: Generate Bash and Python scripts to scan /var/log, find the 10 largest files, print their details, and optionally compress them.  
+CZ: Vygenerovat Bash a Python skript pro prohledání /var/log, nalezení 10 největších souborů, vypsání detailů a nabídnutí komprimace.
+
+## Prompt
+EN:
+```
+I am a Linux administrator. Create a Bash and Python script that:
+- scans /var/log
+- finds the 10 largest files
+- prints their size and path
+- offers optional compression
+Explain each step clearly.
+```
+
+CZ:
+```
+Jsem Linuxový administrátor. Vytvoř Bash a Python skript, který:
 - projde /var/log
-- najde největší 10 souborů
+- najde 10 největších souborů
 - vypíše jejich velikost a cestu
-- nabídne možnost jejich komprimace
-
-Vytvoř prosím BASH i Python verzi. Přidej vysvětlení každého kroku.
+- nabídne možnost komprimace
+Vysvětli každý krok.
+```
