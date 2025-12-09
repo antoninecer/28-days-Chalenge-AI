@@ -1,5 +1,5 @@
-chapter1
 ChatGPT / Claude – generování BASH & Python skriptů
+Účel: optimalizovat rutinní práci admina.
 
 Jsem Linuxový administrátor. Potřebuji vytvořit skript, který:
 - projde /var/log
