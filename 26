@@ -1,0 +1,26 @@
+# Day 26 – System Agent (AI Agents)
+
+## Purpose
+EN: Build an agent that automates system health analysis.  
+CZ: Vytvořit agenta pro automatizovanou analýzu stavu systému.
+
+## Prompt
+EN:
+```
+Create an AI system agent that:
+- checks logs daily
+- detects anomalies
+- generates a report
+- recommends remediation steps
+Provide the full instruction prompt for the agent.
+```
+
+CZ:
+```
+Vytvoř AI systémového agenta, který:
+- denně kontroluje logy
+- detekuje anomálie
+- generuje report
+- doporučuje kroky nápravy
+Uveď kompletní instrukční prompt pro agenta.
+```
