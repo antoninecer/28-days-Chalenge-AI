@@ -1,0 +1,26 @@
+# Day 18 – Video Tutorial Script (Descript)
+
+## Purpose
+EN: Convert technical guides into spoken tutorials.  
+CZ: Převést technické návody do mluvených tutoriálů.
+
+## Prompt
+EN:
+```
+Convert the following technical steps into a spoken tutorial.
+Include:
+- timestamps
+- chapter markers
+- simplified explanations
+<text>
+```
+
+CZ:
+```
+Převeď následující technické kroky do mluveného tutoriálu.
+Zahrň:
+- časové značky
+- kapitoly
+- zjednodušená vysvětlení
+<text>
+```
