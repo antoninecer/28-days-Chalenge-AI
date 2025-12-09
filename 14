@@ -1,0 +1,24 @@
+# Day 14 – Grafana Dashboard Design
+
+## Purpose
+EN: Create monitoring dashboards and alert rules.  
+CZ: Vytvářet monitorovací dashboardy a alerty.
+
+## Prompt
+EN:
+```
+Design a Grafana dashboard for:
+- CPU, RAM, IO
+- app behavior
+- anomaly detection
+Include alert rules.
+```
+
+CZ:
+```
+Navrhni Grafana dashboard pro:
+- CPU, RAM, IO
+- chování aplikace
+- detekci anomálií
+Přidej alert rules.
+```
