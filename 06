@@ -1,0 +1,26 @@
+# Day 06 – Ansible Playbook Generation
+
+## Purpose
+EN: Create universal automated configuration using Ansible.  
+CZ: Vytvořit univerzální automatizovanou konfiguraci pomocí Ansible.
+
+## Prompt
+EN:
+```
+Create an Ansible playbook that:
+- installs Nginx
+- uses different configs for RHEL/Ubuntu
+- includes handlers
+- generates nginx.conf from Jinja template
+Explain everything clearly.
+```
+
+CZ:
+```
+Vytvoř Ansible playbook, který:
+- instaluje Nginx
+- používá rozdílné konfigurace pro RHEL/Ubuntu
+- obsahuje handlery
+- generuje nginx.conf z Jinja šablony
+Všechno stručně vysvětli.
+```
