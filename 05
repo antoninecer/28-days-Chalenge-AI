@@ -1,9 +1,26 @@
-ChatGPT – analýza logů
-Účel: rychlá diagnostika a návrhy řešení.
+# Day 05 – Log Analysis (ChatGPT / Claude)
 
-Analyzuj tento logový výstup a identifikuj:
-- pravděpodobnou příčinu problému
-- doporučené kroky řešení
-- rizika a možné dopady
-Log:
-<vložit ukázku logu>
+## Purpose
+EN: Identify issues in system logs and propose fixes.  
+CZ: Identifikovat problémy v systémových logách a navrhnout opravy.
+
+## Prompt
+EN:
+```
+Analyze the following system log output:
+<log sample>
+Identify:
+- root cause
+- risks
+- recommended remediation steps
+```
+
+CZ:
+```
+Analyzuj následující log:
+<ukázka logu>
+Urči:
+- příčinu
+- rizika
+- doporučené kroky nápravy
+```
