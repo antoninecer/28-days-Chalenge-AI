@@ -1,0 +1,24 @@
+# Day 21 – Summary System (Readwise)
+
+## Purpose
+EN: Create multi-level summaries for learning or documentation.  
+CZ: Vytvářet vícestupňová shrnutí pro učení nebo dokumentaci.
+
+## Prompt
+EN:
+```
+Summarize the following text in three levels:
+1 sentence
+1 paragraph
+1 page
+<text>
+```
+
+CZ:
+```
+Shrň následující text ve třech úrovních:
+1 věta
+1 odstavec
+1 stránka
+<text>
+```
