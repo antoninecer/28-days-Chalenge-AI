@@ -1,6 +1,20 @@
-GitHub Copilot / Cursor – refaktorizace kódu
-Účel: zlepšit čitelnost a výkon skriptů.
+# Day 02 – Code Refactoring (GitHub Copilot / Cursor)
 
-Toto je můj skript. Navrhni jeho optimalizaci, vyšší čitelnost a bezpečnost:
-<sem vlož svůj skript>
-Navrhni také logiku testů a validaci vstupů.
+## Purpose
+EN: Improve clarity, security, and performance of existing scripts.  
+CZ: Zlepšit čitelnost, bezpečnost a výkon stávajících skriptů.
+
+## Prompt
+EN:
+```
+This is my script. Refactor it for clarity, security, and performance.
+Suggest improvements, testing logic, and input validation.
+<insert script here>
+```
+
+CZ:
+```
+Toto je můj skript. Refaktoruj ho pro lepší čitelnost, bezpečnost a výkon.
+Navrhni vylepšení, testovací logiku a validaci vstupů.
+<sem vlož skript>
+```
