@@ -1,0 +1,22 @@
+# Day 24 – UI Mockup (Krea.ai)
+
+## Purpose
+EN: Create UI mockups for monitoring dashboards.  
+CZ: Vytvořit UI návrhy monitorovacích dashboardů.
+
+## Prompt
+EN:
+```
+Design a dark-theme monitoring dashboard UI with:
+- 4 main metric panels
+- data sourced from Prometheus
+Keep the design clean and readable.
+```
+
+CZ:
+```
+Navrhni UI monitorovacího dashboardu v tmavém tématu:
+- 4 hlavní panely metrik
+- data z Promethea
+Zachovej čistý a čitelný design.
+```
