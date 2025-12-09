@@ -1,0 +1,24 @@
+# Day 07 – Terraform Module Creation
+
+## Purpose
+EN: Build reusable Terraform modules for VM provisioning.  
+CZ: Vytvořit opakovaně použitelný Terraform modul pro vytváření VM.
+
+## Prompt
+EN:
+```
+Create a Terraform module that deploys a VM (OpenStack/VMware/KVM).
+Include:
+- CPU, RAM, image, network variables
+- validation rules
+- usage example
+```
+
+CZ:
+```
+Vytvoř Terraform modul pro VM (OpenStack/VMware/KVM).
+Zahrň:
+- proměnné CPU, RAM, image, síť
+- validační pravidla
+- příklad použití
+```
