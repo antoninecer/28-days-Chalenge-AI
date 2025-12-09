@@ -1,0 +1,26 @@
+# Day 20 – Presentation Generation (SlidesAI)
+
+## Purpose
+EN: Generate presentations from technical topics.  
+CZ: Vytvořit prezentace z technických témat.
+
+## Prompt
+EN:
+```
+Create a presentation titled:
+"Modernizing Linux Infrastructure"
+Include 8–12 slides with:
+- key points
+- diagrams suggestions
+- summary slide
+```
+
+CZ:
+```
+Vytvoř prezentaci s názvem:
+"Modernizace Linuxové infrastruktury"
+Zahrň 8–12 slidů s:
+- hlavními body
+- návrhy diagramů
+- závěrečným shrnutím
+```
